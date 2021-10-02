@@ -1,4 +1,4 @@
-# test-app
+# tauri_tp
 
 ## Project setup
 ```
@@ -7,7 +7,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn tauri:serve
 ```
 
 ### Compiles and minifies for production
